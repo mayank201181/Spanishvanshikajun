@@ -160,7 +160,7 @@
 
 <details><summary>▶ Answer & explanation</summary>
 
-**The question means:** Which Spanish words mean "a pen"?
+**The question means:** Which Spanish word means "a pen"?
 **✅ Correct: C) un bolígrafo**
 - 🇬🇧 *a pen*
 - 🇪🇸 **un bolígrafo** (often shortened to *un boli*). *(un lápiz = a pencil, una goma = a rubber, una regla = a ruler)*
