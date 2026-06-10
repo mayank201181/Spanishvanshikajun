@@ -1,0 +1,18 @@
+{
+  "name": "spanish-year7-revision",
+  "version": "1.0.0",
+  "description": "Illustrated Spanish Year 7 revision pack (SentenceBuilders): study guides with real photos + 16 mock tests, built into a static site.",
+  "type": "module",
+  "scripts": {
+    "build": "node build-site.mjs",
+    "vercel-build": "node build-site.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayank201181/Spanishvanshikajun.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
