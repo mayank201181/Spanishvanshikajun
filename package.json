@@ -1,17 +1,16 @@
 {
-  "name": "spanishvanshikajun",
+  "name": "spanish-year7-revision",
   "version": "1.0.0",
-  "description": "A complete, illustrated revision pack built from the **Spanish 7A Knowledge Organiser (SentenceBuilders)** notebook. It is designed so you can **learn and memorise the vocabulary first**, then **test yourself** with realistic mock exams.",
-  "main": "index.js",
+  "description": "Illustrated Spanish Year 7 revision pack (SentenceBuilders): study guides with real photos + 16 mock tests, built into a static site.",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build-site.mjs",
+    "vercel-build": "node build-site.mjs"
   },
   "repository": {
     "type": "git",
-    "url": "http://local_proxy@127.0.0.1:42167/git/mayank201181/Spanishvanshikajun"
+    "url": "https://github.com/mayank201181/Spanishvanshikajun.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "marked": "^12.0.2"
